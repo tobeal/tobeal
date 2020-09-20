@@ -12,7 +12,7 @@ My interests include: data mining, big data and learning algorithms.
 
       -💾 : MySQL,NoSQL.
 
-      -🔧 : Git, Firebase.
+      -🔧 : Git, Firebase, RapidMiner.
  ### 📫 How to reach me: 
    albertomonterofn@hotmail.com
    
