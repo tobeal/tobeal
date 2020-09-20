@@ -5,9 +5,14 @@ My interests include: data mining, big data and learning algorithms.
    📓 I’m currently studying intelligent systems at the University of Salamanca.
    
 ### 📝 Personal Project
- #### DiscoverSelf.
-     Generation and management of routes using automated learning algorithms to create a web application that offers these services to the user.
-    
+   #### DiscoverSelf.
+        Generation and management of routes using automated learning algorithms to create a web application that offers these services to the user.
+###  🚀 My tech Stack
+      -💻 : Java,C,Node.
+
+      -💾 : MySQL,NoSQL.
+
+      -🔧 : Git, Firebase.
  ### 📫 How to reach me: 
    albertomonterofn@hotmail.com
    
