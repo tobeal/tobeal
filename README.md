@@ -16,7 +16,7 @@ My interests include: data mining, big data and learning algorithms.
  ### 📫 How to reach me: 
    albertomonterofn@hotmail.com
    
-  [Download my resume](https://github.com/tobeal/tobeal/blob/master/Resume..pdf)
+  [Download my resume](https://github.com/tobeal/tobeal/blob/master/ALBERTO's%20Resume.pdf)
   
 <!--
 **tobeal/tobeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
