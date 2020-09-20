@@ -6,9 +6,8 @@ My interests include: data mining, big data and learning algorithms.
 
  ### 📝 Personal Project
 
-    #### DiscoverSelf:
-    
-    Generation and management of routes using automated learning algorithms to create a web application that offers these services to the user.
+   #### DiscoverSelf.
+     Generation and management of routes using automated learning algorithms to create a web application that offers these services to the user.
     
  ### 📫 How to reach me: 
         albertomonterofn@hotmail.com
