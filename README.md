@@ -1,8 +1,8 @@
 ### Hello there I´m Tobeal👋
-I am Alberto i have 24 years old,Graduated in computer engineering, currently studying intelligent systems at the University of Salamanca. 
+I am Alberto i have 24 years old,Graduated in computer engineering, currently working with projects related to artificial intelligence, data collection and data processing.. 
 My interests include: data mining, big data and learning algorithms.
 ### 👦 About Me
-   📓 I’m currently studying intelligent systems at the University of Salamanca.
+   📓 I’m currently working in BISITE Research Group.
    
 ### 📝 Personal Project
    #### DiscoverSelf.
