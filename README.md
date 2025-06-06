@@ -1,27 +1,30 @@
-### Hello there I´m Tobeal👋
-My name is Alberto i am 24 years old,Graduated in computer engineering, currently working with projects related to artificial intelligence, data collection and data processing.. 
-My interests include: data mining, big data and learning algorithms.
-### 👦 About Me
-   📓 I’m currently working in BISITE Research Group.
-   
-### 📝 Personal Project
-   #### DiscoverSelf.
-        Generation and management of routes using automated learning algorithms to create a web application that offers these services to the user.
-###  🚀 My tech Stack
-      -💻 : Java,C,Node.
+# 👋 Hey, I'm Alberto — a.k.a. Tobeal
 
-      -💾 : MySQL,NoSQL.
+🎓 Computer Engineer · 💼 Full Stack Developer · 🚀 Tech Team Leader  
+Currently working at [AIR Institute](https://air-institute.org), building scalable and intelligent systems in the fields of **AI**, **Big Data**, **IoT**, and **data streaming**.
 
-      -🔧 : Git, Firebase, RapidMiner.
- ### 📫 How to reach me: 
-   albertomonterofn@hotmail.com
-   
-  [Download my resume](https://github.com/tobeal/tobeal/blob/master/ALBERTO's%20Resume.pdf)
-  
-<!--
-**tobeal/tobeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
+## 🧠 About Me
 
+I'm a passionate developer and project manager with a focus on:
+- 🔬 **Artificial Intelligence & Machine Learning**
+- 🌐 **Full Stack Development** (JS + Python ecosystems)
+- 📡 **IoT & Real-Time Data Platforms**
+- 🔄 **Data Processing, Web Crawling & Scraping**
+- 🧱 **Architecture Design & Scalable Microservices**
 
+With over **4 years of experience** working on national and European-level R&D projects, I've led multidisciplinary teams and delivered robust, production-ready solutions.
 
--->
+---
+
+## 🧰 Tech Stack
+
+**Languages**  
+`Python`, `JavaScript`, `TypeScript`, `Java`, `C`, `PHP`, `SQL`, `NoSQL`
+
+**Frameworks & Libraries**  
+`Flask`, `FastAPI`, `Vue.js`, `Express.js`, `Scikit-learn`, `nltk`, `Spacy`, `TensorFlow`
+
+**Tools & Platforms**  
+`Docker`, `Kubernetes`, `GitHub Actions`, `Firebase`, `RapidMiner`,
