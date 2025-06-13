@@ -14,7 +14,7 @@ I'm a passionate developer and project manager with a focus on:
 - 🔄 **Data Processing, Web Crawling & Scraping**
 - 🧱 **Architecture Design & Scalable Microservices**
 
-With over **4 years of experience** working on national and European-level R&D projects, I've led multidisciplinary teams and delivered robust, production-ready solutions.
+With over **5 years of experience** working on national and European-level R&D projects, I've led multidisciplinary teams and delivered robust, production-ready solutions.
 
 ---
 
