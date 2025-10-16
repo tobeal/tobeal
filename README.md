@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Alberto
 
-🎓 Computer Engineer · 💼 Full Stack Developer · 🚀 Tech Team Leader  
-Currently working at [AIR Institute](https://air-institute.org), building scalable and intelligent systems in the fields of **AI**, **Big Data**, **IoT**, and **data streaming**.
+🎓 Computer Engineer · 💼 Full Stack Developer
+Currently working at [knowmad mood]([https://www.knowmadmood.com/es]), building scalable and intelligent systems in the fields of **AI**, **Big Data**, **IoT**, and **data streaming**.
 
 ---
 
